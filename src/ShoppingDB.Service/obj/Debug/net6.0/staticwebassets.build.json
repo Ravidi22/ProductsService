@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r2OpJbyHgfr7NoX9S7G7VIbAs9+WHGy+gvAV7FbUf5k=",
+  "Source": "ShoppingDB.Service",
+  "BasePath": "_content/ShoppingDB.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

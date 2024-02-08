@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0340FCFF-853B-4393-B29A-3DF0B560BF0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingDB.Service", "src\ShoppingDB.Service\ShoppingDB.Service.csproj", "{F32B3C7E-3012-4C45-BBA9-851025E7B882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32B3C7E-3012-4C45-BBA9-851025E7B882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32B3C7E-3012-4C45-BBA9-851025E7B882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32B3C7E-3012-4C45-BBA9-851025E7B882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32B3C7E-3012-4C45-BBA9-851025E7B882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F32B3C7E-3012-4C45-BBA9-851025E7B882} = {0340FCFF-853B-4393-B29A-3DF0B560BF0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1A6CCA-39A1-4C18-AB10-3DD26B9A7090}
+	EndGlobalSection
+EndGlobal
